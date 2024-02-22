@@ -1,7 +1,9 @@
 # NOTE
 - This script still works for upgrading your Windows pc from any version to Pro.
 - But it wont activate it.
-- I have made a new project for activating Windows. The link is below.
+- I have made a new project for activating Windows.
+- So I will no longer be updating this script.
+- The link to my new project is below.
 - [Drev's Windows Activation Tool (DWAT)](https://github.com/drevilyt/activationscript)
 
 # UpgradeScript
